@@ -2,6 +2,7 @@
 Proposal
 Introduction:
 A client reach out to me to do exploratory data analysis because she want to open a booth that sells breakfast, snacks  and coffee to go, she wants to set her booth to have a strategic place since COVID 19 pandemic closed her shop and now she wants to know where is the stations that people mostly will need to take a coffee and breakfast before getting on to the train or after getting off it in the morning time specifically, so I’m going to use the Metropolitan Transportation Authority Turnstile dataset, I will be doing my exploratory data analysis on the period before COVID 19, from November 2, 2019 to December 28 2019 then compare it to the period from November 7,2020 to December 26,2020 ,Hopefully in the end of my EDA I will determine the best places for my client to choose from to open her booth .
+
 Datasets:
 In my EDA I will be using the MTA turnstile dataset free to access on http://web.mta.info/developers/turnstile.html  , each  database is taken every Saturday of every month and the information inside the database will show you each turnstile in witch control area with the entry and exit date and time below is the field description:
 C/A:	Control Area (A002)
